@@ -56,7 +56,7 @@ class _NoteScreenState extends State<NoteScreen> {
                     decoration: InputDecoration(
                         labelText: "Message",
                         border: OutlineInputBorder(),
-                        hintText: 'Lorem ipsum...'),
+                        hintText: 'Lorem...'),
                   ),
                 ),
               ],
